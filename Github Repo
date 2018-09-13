@@ -1,0 +1,43 @@
+# dsi-datavis-1
+Trying this out as part of week 1 assignment
+@catalinacipri
+Update README.md
+3 days ago
+3
+# I'M A H1
+4
+## I'M A H2
+5
+### I'M A H3
+6
+#### I'M A H4
+7
+##### I'M A H5
+8
+###### I'M A H6
+9
+
+10
+I'm a normal paragraph text.
+11
+
+12
+![I'm an image](https://cataas.com/cat)
+13
+
+14
+![I can even be a gif](https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
+15
+
+16
+[links are made like this, here's the DSI homepage](https://dsi.sva.edu/)
+17
+
+18
+| column 1 | column 2 | column 3 |
+19
+| -------- | ---------| -------- |
+20
+| wow!     | such!    | yay!     |
+21
+| weather! | sun!     | blue!    |
